@@ -47,5 +47,5 @@ Rails.application.config.assets.precompile += %w( magnific-popup.css )
 Rails.application.config.assets.precompile += %w( ultm.css )
 Rails.application.config.assets.precompile += %w( form-elements.css )
 Rails.application.config.assets.precompile += %w( media-queries.css )
-Rails.application.config.assets.precompile += %w( *.jpg  *.gif *.png *.git)
+Rails.application.config.assets.precompile += %w( *.jpg  *.gif *.png *.git *.svg)
 
